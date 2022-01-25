@@ -16,7 +16,5 @@ I'm a computer science student who is passionate about writing code, building so
 <div><p>My overview: </p></div>
 
 ![AlvaroFarreny GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroFarreny&show_icons=true&theme=react)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroFarreny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ⭐️ From [AlvaroFarreny](https://github.com/AlvaroFarreny/AlvaroFarreny) 

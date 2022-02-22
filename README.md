@@ -9,7 +9,7 @@
 I'm a computer science student who is passionate about writing code, building software and designing.
 
 - 🔭 I’m currently a computer science student at Universidad Europea de Madrid.
-- 📚 I’m currently learning Java, C++ and Python.
+- 📚 I’m currently learning Java, C++, Python and Solidity (BlockChain).
 - 🕹️ Pursuing Graphic Design and gaming as hobbies/side hustles.
 - 📫 How to reach me: [Twitter](https://twitter.com/FarrenyAlvaro) [Gmail](mailto:farrenyalvaro@gmail.com)
 

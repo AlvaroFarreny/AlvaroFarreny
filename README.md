@@ -11,7 +11,7 @@ I'm a computer science student who is passionate about writing code, building so
 - 🔭 I’m currently a computer science student at Universidad Europea de Madrid.
 - 📚 I’m currently learning Java, C++, Python and Solidity.
 - 🕹️ Pursuing Graphic Design and gaming as hobbies/side hustles.
-- 📫 How to reach me: [Twitter](https://twitter.com/FarrenyAlvaro) [Gmail](mailto:farrenyalvaro@gmail.com)
+- 📫 How to reach me: [Twitter](https://twitter.com/FarrenyAlvaro) [Gmail](mailto:farrenyalvaro@gmail.com) [Linkedin](https://www.linkedin.com/in/%C3%A1lvaro-farreny-boixader-806086236/)
 
 <div><p>My overview: </p></div>
 

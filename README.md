@@ -13,4 +13,27 @@ I'm a computer science student who is passionate about writing code, building so
 - 🕹️ Pursuing Graphic Design and gaming as hobbies/side hustles.
 - 📫 How to reach me: [Twitter](https://twitter.com/FarrenyAlvaro) [Gmail](mailto:farrenyalvaro@gmail.com) [Linkedin](https://www.linkedin.com/in/%C3%A1lvaro-farreny-boixader-806086236/)
 
+<br>
+
+## ¿A little more about me?
+
+~~~ javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Java, Python, Javascript, HTML, CSS, SQL],
+   technologies: {
+      frontEnd: {
+         java: ["JavaFx"],
+         js: ["jQuery, Ajax"],
+         css: ["Bootstrap"]
+      },
+      databases: ["MySQL", "SQLite"],
+      mobile: ["Android"]
+   },
+   currentOccupation: ["Student, open for job opportunities"]
+};
+~~~
+
+</br>
+
 ⭐️ From [AlvaroFarreny](https://github.com/AlvaroFarreny/AlvaroFarreny) 

@@ -15,8 +15,6 @@ I'm a computer science student who is passionate about writing code, building so
 
 <br>
 
-## ¿A little more about me?
-
 ~~~ javascript
 const aboutMe = {
    pronouns: "he" | "him",

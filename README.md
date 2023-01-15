@@ -18,7 +18,7 @@ I'm a computer science student who is passionate about writing code, building so
 ~~~ javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Java, Python, C++, HTML, CSS, Javascript, PHP, SQL],
+   code: [Java, Python, C++, Javascript, HTML, CSS, PHP, SQL],
    technologies: {
       frontEnd: {
          java: ["JavaFx"],

@@ -34,6 +34,6 @@ const aboutMe = {
 
 </br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlvaroFarreny&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="AlvaroFarreny" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlvaroFarreny&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=react" alt="AlvaroFarreny" /></p>
 
 ⭐️ From [AlvaroFarreny](https://github.com/AlvaroFarreny/AlvaroFarreny) 

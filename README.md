@@ -19,11 +19,11 @@ I'm a computer science student who is passionate about writing code, building so
 ~~~ javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Java, Python, C++, Javascript, React, HTML, CSS, PHP, SQL],
+   code: [Java, Python, C++, Javascript, HTML, CSS, PHP, SQL],
    technologies: {
       frontEnd: {
          java: ["JavaFx"],
-         js: ["jQuery, Ajax", "React"],
+         js: ["jQuery, Ajax, React"],
          css: ["Bootstrap", "TailwindCSS"]
       },
       databases: ["MySQL", "SQLite"],

@@ -35,8 +35,6 @@ const aboutMe = {
 
 </br>
 
-![AlvaroFarreny GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroFarreny)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroFarreny)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AlvaroFarreny)](https://git.io/streak-stats)
 
 

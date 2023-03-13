@@ -37,7 +37,7 @@ const aboutMe = {
 
 ![AlvaroFarreny GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroFarreny)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroFarreny)
-![GitHub Streak](https://streak-stats.demolab.com/?user=AlvaroFarreny)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AlvaroFarreny&theme=dark)
 
 
 ⭐️ From [AlvaroFarreny](https://github.com/AlvaroFarreny/AlvaroFarreny) 

@@ -35,7 +35,4 @@ const aboutMe = {
 
 </br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlvaroFarreny)](https://git.io/streak-stats)
-
-
 ⭐️ From [AlvaroFarreny](https://github.com/AlvaroFarreny/AlvaroFarreny) 

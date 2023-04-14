@@ -11,28 +11,33 @@ I'm a computer science student who is passionate about writing code, building so
 - 🔭 I’m currently a computer science student at Universidad Europea de Madrid.
 - 📚 I’m currently learning React, Python, Laravel and Solidity.
 - 🕹️ Pursuing Graphic Design and gaming as hobbies/side hustles.
-- 📫 How to reach me: 
-<a href="https://www.linkedin.com/in/alvarofarrenyboixader/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvarofarreny" height="30" width="40" /></a>
+- 📫 How to reach me:
+  <a href="https://www.linkedin.com/in/alvarofarrenyboixader/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvarofarreny" height="30" width="40" /></a>
 
 <br>
 
-~~~ javascript
+```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Java, Python, C++, Javascript, HTML, CSS, PHP, SQL],
-   technologies: {
-      frontEnd: {
-         java: ["JavaFx"],
-         js: ["jQuery, Ajax, React"],
-         css: ["Bootstrap", "TailwindCSS"]
-      },
-      databases: ["MySQL", "SQLite"],
-      mobile: ["Android"]
-   },
-   currentOccupation: ["Student, open for job opportunities"]
+  pronouns: "he" | "him",
+  code: [Java, Python, C++, Javascript, HTML, CSS, PHP, SQL],
+  technologies: {
+    frontEnd: {
+      languages: ["JavaScript", "HTML", "CSS"],
+      frameworks: ["React", "Angular"],
+      libraries: ["Bootstrap", "TailwindCSS"],
+    },
+    backend: {
+      languages: ["Java", "Python", "PHP"],
+      frameworks: ["Laravel"],
+    },
+    databases: ["MySQL", "SQLite"],
+    mobile: ["Android"],
+    other: ["Docker"],
+  },
+  currentOccupation: ["Student, open for job opportunities"],
 };
-~~~
+```
 
 </br>
 
-⭐️ From [AlvaroFarreny](https://github.com/AlvaroFarreny/AlvaroFarreny) 
+⭐️ From [AlvaroFarreny](https://alvarofarreny.github.io)

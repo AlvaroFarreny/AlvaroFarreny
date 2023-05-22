@@ -31,7 +31,7 @@ const aboutMe = {
       frameworks: ["Laravel"],
     },
     databases: ["MySQL", "SQLite"],
-    mobile: ["Android"],
+    mobile: ["Android", "React Native", "Flutter"],
     other: ["Docker"],
   },
   currentOccupation: ["Student, open for job opportunities"],

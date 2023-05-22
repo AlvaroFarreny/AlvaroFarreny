@@ -40,7 +40,4 @@ const aboutMe = {
 
 </br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroFarreny&theme=dark">
-
-
 ⭐️ From [AlvaroFarreny](https://alvarofarreny.github.io)
